@@ -1,1 +1,19 @@
-/* Put your CSS here */
+* {
+    padding: 0;
+    margin: 0;
+}
+
+header {
+    background: rgb(114, 114, 114);
+    text-align: center;
+}
+
+body {
+    background: rgb(39, 39, 39);
+}
+
+canvas {
+    background: rgb(114, 114, 114);
+    display: block;
+    margin: 0 auto;
+}
